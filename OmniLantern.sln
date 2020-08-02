@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniLantern", "OmniLantern.csproj", "{12497F40-2F44-6D49-A00A-B8DBF0E47C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniLantern.Editor", "OmniLantern.Editor.csproj", "{3182BF23-47EF-322C-6CB0-9F08C3E7576F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12497F40-2F44-6D49-A00A-B8DBF0E47C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12497F40-2F44-6D49-A00A-B8DBF0E47C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12497F40-2F44-6D49-A00A-B8DBF0E47C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12497F40-2F44-6D49-A00A-B8DBF0E47C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3182BF23-47EF-322C-6CB0-9F08C3E7576F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3182BF23-47EF-322C-6CB0-9F08C3E7576F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3182BF23-47EF-322C-6CB0-9F08C3E7576F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3182BF23-47EF-322C-6CB0-9F08C3E7576F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
