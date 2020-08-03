@@ -1,5 +1,6 @@
 This is the documentation for OmniLantern.
 
+（Password:koikekoike）
 ## Hardwars:
 - On ProCam:
 	- Camera(OmniLantern) connect to PC
